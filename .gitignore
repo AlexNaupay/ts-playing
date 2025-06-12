@@ -11,3 +11,4 @@ pnpm-lock.yaml
 .idea
 .vscode/*
 .DS_Store
+src/files/file64.pdf
