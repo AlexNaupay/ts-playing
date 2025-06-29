@@ -12,3 +12,5 @@ pnpm-lock.yaml
 .vscode/*
 .DS_Store
 src/files/file64.pdf
+src/files/json.txt
+.env
