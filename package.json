@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.42",
+    "@types/jsonwebtoken": "^9.0.10",
     "@types/luxon": "^3.6.2",
     "@types/node": "^22.15.30",
     "ts-node": "^10.9.2",
@@ -19,6 +20,7 @@
     "bluebird": "^3.7.2",
     "class-validator": "^0.14.2",
     "dotenv": "^17.0.0",
+    "jsonwebtoken": "^9.0.2",
     "luxon": "^3.6.1"
   }
 }

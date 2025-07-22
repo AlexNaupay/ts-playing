@@ -13,4 +13,6 @@ pnpm-lock.yaml
 .DS_Store
 src/files/file64.pdf
 src/files/json.txt
+src/files/private.key
+src/files/public.key
 .env
