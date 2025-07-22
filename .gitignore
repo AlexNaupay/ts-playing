@@ -15,4 +15,6 @@ src/files/file64.pdf
 src/files/json.txt
 src/files/private.key
 src/files/public.key
+src/files/ec512-private.key
+src/files/ec512-public.key
 .env
